@@ -1,0 +1,10 @@
+C:\Users\Abolfazl\source\repos\Advanced_Calculator\Advanced_Calculator\bin\Debug\Advanced_Calculator.exe.config
+C:\Users\Abolfazl\source\repos\Advanced_Calculator\Advanced_Calculator\bin\Debug\Advanced_Calculator.exe
+C:\Users\Abolfazl\source\repos\Advanced_Calculator\Advanced_Calculator\bin\Debug\Advanced_Calculator.pdb
+C:\Users\Abolfazl\source\repos\Advanced_Calculator\Advanced_Calculator\obj\Debug\Advanced_Calculator.Form1.resources
+C:\Users\Abolfazl\source\repos\Advanced_Calculator\Advanced_Calculator\obj\Debug\Advanced_Calculator.Properties.Resources.resources
+C:\Users\Abolfazl\source\repos\Advanced_Calculator\Advanced_Calculator\obj\Debug\Advanced_Calculator.csproj.GenerateResource.cache
+C:\Users\Abolfazl\source\repos\Advanced_Calculator\Advanced_Calculator\obj\Debug\Advanced_Calculator.exe
+C:\Users\Abolfazl\source\repos\Advanced_Calculator\Advanced_Calculator\obj\Debug\Advanced_Calculator.pdb
+C:\Users\Abolfazl\source\repos\Advanced_Calculator\Advanced_Calculator\obj\Debug\Advanced_Calculator.csprojAssemblyReference.cache
+C:\Users\Abolfazl\source\repos\Advanced_Calculator\Advanced_Calculator\obj\Debug\Advanced_Calculator.csproj.CoreCompileInputs.cache

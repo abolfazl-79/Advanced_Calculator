@@ -1,0 +1,11 @@
+C:\Users\Abolfazl\source\repos\Evaluate\Evaluate\bin\Debug\netcoreapp3.0\Evaluate.exe
+C:\Users\Abolfazl\source\repos\Evaluate\Evaluate\bin\Debug\netcoreapp3.0\Evaluate.deps.json
+C:\Users\Abolfazl\source\repos\Evaluate\Evaluate\bin\Debug\netcoreapp3.0\Evaluate.runtimeconfig.json
+C:\Users\Abolfazl\source\repos\Evaluate\Evaluate\bin\Debug\netcoreapp3.0\Evaluate.runtimeconfig.dev.json
+C:\Users\Abolfazl\source\repos\Evaluate\Evaluate\bin\Debug\netcoreapp3.0\Evaluate.dll
+C:\Users\Abolfazl\source\repos\Evaluate\Evaluate\bin\Debug\netcoreapp3.0\Evaluate.pdb
+C:\Users\Abolfazl\source\repos\Evaluate\Evaluate\obj\Debug\netcoreapp3.0\Evaluate.AssemblyInfoInputs.cache
+C:\Users\Abolfazl\source\repos\Evaluate\Evaluate\obj\Debug\netcoreapp3.0\Evaluate.AssemblyInfo.cs
+C:\Users\Abolfazl\source\repos\Evaluate\Evaluate\obj\Debug\netcoreapp3.0\Evaluate.dll
+C:\Users\Abolfazl\source\repos\Evaluate\Evaluate\obj\Debug\netcoreapp3.0\Evaluate.pdb
+C:\Users\Abolfazl\source\repos\Evaluate\Evaluate\obj\Debug\netcoreapp3.0\Evaluate.csprojAssemblyReference.cache
